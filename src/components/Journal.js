@@ -35,6 +35,7 @@ export default function Journal() {
               <p>Me encontre con la dificultad para la parte de redireccionamiento, necesito enfatizar más esa parte</p>
               <p>La dificultad que tuve fue el contador cuando las fechas son iguales, no me dio tiempo de agregar función para actualizar los valores desde cero</p>
               <p>No me alcanzo el tiempo para agregar y enfatizar en el tema de testing</p>
+              <p>Tuve que modificar los estilos porque no se mostraban correctamente</p>
               <h4>Links</h4>
               <p><Link href="https://www.youtube.com/watch?v=3asnOp4rZxM&t=93s" target='_blank'>Curso de Next.js</Link></p>
               <p><Link href="https://www.youtube.com/watch?v=kRV23b1hYzw" target='_blank'>NEXTJS EN 5 MINUTOS</Link></p>
