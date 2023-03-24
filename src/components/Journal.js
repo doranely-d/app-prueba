@@ -43,7 +43,6 @@ export default function Journal() {
               <p><Link href="https://www.coffeeclass.io/articles/nextjs-usestate" target='_blank'>nextjs usestate</Link></p>
               <p><Link href="https://gist.github.com/Ifmr24/3761a1510513d48c1b9613a6aacd4fc4" target='_blank'>hooks</Link></p>
               <p><Link href="https://nextjs.org/docs/testing" target='_blank'>nextjs</Link></p>
-              
             </div>
           </div>
         </div>
