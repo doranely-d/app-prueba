@@ -31,12 +31,19 @@ export default function Journal() {
               <p>Investigue como funciona Nextjs</p>
               <p>Investigue en netxjs el usestate</p>
               <p>Planee el cómo agregar en el index una función para obtener la url y el último valor de la url y pasarlo por props a los componentes</p>
+              <h4>Problemas</h4>
+              <p>Me encontre con la dificultad para la parte de redireccionamiento, necesito enfatizar más esa parte</p>
+              <p>La dificultad que tuve fue el contador cuando las fechas son iguales, no me dio tiempo de agregar función para actualizar los valores desde cero</p>
+              <p>No me alcanzo el tiempo para agregar y enfatizar en el tema de testing</p>
               <h4>Links</h4>
               <p><Link href="https://www.youtube.com/watch?v=3asnOp4rZxM&t=93s" target='_blank'>Curso de Next.js</Link></p>
               <p><Link href="https://www.youtube.com/watch?v=kRV23b1hYzw" target='_blank'>NEXTJS EN 5 MINUTOS</Link></p>
+              <p><Link href=" https://es.reactjs.org/docs/hooks-state.html" target='_blank'>hooks state</Link></p>
               <p><Link href="https://blog.avneesh.tech/how-to-make-a-count-down-timer-in-react" target='_blank'>countdown timer in react</Link></p>
               <p><Link href="https://www.coffeeclass.io/articles/nextjs-usestate" target='_blank'>nextjs usestate</Link></p>
+              <p><Link href="https://gist.github.com/Ifmr24/3761a1510513d48c1b9613a6aacd4fc4" target='_blank'>hooks</Link></p>
               <p><Link href="https://nextjs.org/docs/testing" target='_blank'>nextjs</Link></p>
+              
             </div>
           </div>
         </div>
